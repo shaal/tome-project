@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "594464db-5a39-47f6-a576-4196ba8c8630"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/e9161656-3799-4e3c-ade1-7a59b9f5255b"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/about"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

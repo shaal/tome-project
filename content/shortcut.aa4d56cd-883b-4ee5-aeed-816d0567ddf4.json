@@ -1,0 +1,41 @@
+{
+    "uuid": [
+        {
+            "value": "aa4d56cd-883b-4ee5-aeed-816d0567ddf4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "shortcut_set": [
+        {
+            "target_id": "default",
+            "target_type": "shortcut_set",
+            "target_uuid": "1d66f465-7d50-40e0-8ec7-9892c1106200"
+        }
+    ],
+    "title": [
+        {
+            "value": "Tome Static"
+        }
+    ],
+    "weight": [
+        {
+            "value": 5
+        }
+    ],
+    "link": [
+        {
+            "uri": "internal:\/admin\/config\/tome\/static",
+            "title": null,
+            "options": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ]
+}
